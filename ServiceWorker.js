@@ -1,9 +1,9 @@
 const cacheName = "DefaultCompany-FlipCoin_Solana-1.0";
 const contentToCache = [
     "Build/Build_Webgl_FlipCoinSolana.loader.js",
-    "Build/Build_Webgl_FlipCoinSolana.framework.js.br",
-    "Build/Build_Webgl_FlipCoinSolana.data.br",
-    "Build/Build_Webgl_FlipCoinSolana.wasm.br",
+    "Build/Build_Webgl_FlipCoinSolana.framework.js",
+    "Build/Build_Webgl_FlipCoinSolana.data",
+    "Build/Build_Webgl_FlipCoinSolana.wasm",
     "TemplateData/style.css"
 
 ];
