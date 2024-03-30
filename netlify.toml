@@ -1,0 +1,5 @@
+[[redirects]]
+  force = true
+  from = "/api/v1/manage/*"
+  status = 200
+  to = "https://api.jsonsilo.com/:splat"
